@@ -1,0 +1,33 @@
+_repo: Short-Stories-of-Various-Types_20831
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Freck, Laura F.
+    gutenberg_agent_id: '9550'
+    url: http://www.gutenberg.org/2009/agents/9550
+description: ''
+gutenberg_bookshelf: Short Stories
+gutenberg_issued: '2007-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20831'
+  lccn: '20023177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PN'
+tableOfContents: The gift of the Magi / O. Henry -- A reward of merit / Booth Tarkington
+  -- "American, Sir!" / Mary Raymond Shipman Andrews -- John G. / Katherine Mayo --
+  Friends / Myra Kelly -- A camping trip / Hamlin Garland -- A thread without a knot
+  / Dorothy Canfield Fisher -- Chu Chu / Francis Bret Harte -- Feathertop / Nathaniel
+  Hawthorne -- The Red-Headed League / Arthur Conan Doyle -- The inconsiderate waiter
+  / James Matthew Barrie -- The siege of Berlin / Alphonse Daudet -- The silver mine
+  / Selma Lagerlof.
+title: Short Stories of Various Types
+url: http://www.gutenberg.org/ebooks/20831

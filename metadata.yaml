@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9550'
     url: http://www.gutenberg.org/2009/agents/9550
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20831#Short-Stories-of-Various-Types
 gutenberg_bookshelf: Short Stories
 gutenberg_issued: '2007-03-15'
 gutenberg_type: Text
